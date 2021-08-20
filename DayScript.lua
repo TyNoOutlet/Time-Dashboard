@@ -318,7 +318,7 @@ RS.Heartbeat:Connect(function()
 		"* Navy Day";--27
 		"No holidays today";--28
 		"No holidays today";--29
-		"No holidays today";--30
+		"* Mischief Night";--30
 		"* Halloween";--31
 		--------NOVEMBER----------
 		"* All Saints' Day \n * Self-Defense Forces Commemoration Day \n * National Brush Day";--1
