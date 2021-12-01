@@ -325,7 +325,7 @@ RS.Heartbeat:Connect(function()
 		"* All Souls' Day: A day for remembering all deceased Christian souls. Soul cakes continue to be eaten today.";--2
 		"* Culture Day: A day to do all things Japanese. Plays, food, and other cultural items are to be commemorated today.";--3
 		"* National Bison Day (2023): A day to recognize the bison as an important American animal.";--4
-		"* National Bison Day (2022): A day to reflect on the indigenous peoples of the Americas.";--5
+		"* National Bison Day (2022): A day to recognize the bison as an important American animal.";--5
 		"";--6
 		"";--7
 		"";--8
@@ -354,7 +354,7 @@ RS.Heartbeat:Connect(function()
 		------------DECEMBER---------------------
 		"";--1
 		"";--2
-		"* First Sunday of Advent (2023): The beginning of the Advent season. Christmas decorations are put up at this time, and the Advent candle is burned for the first time.";--3
+		"* First Sunday of Advent (2023): The beginning of the Advent season. Christmas decorations are put up at this time, and the Advent candle is burned for the first time. \n * Mikan Day: A day to celebrate the mikan, or mandarin orange.";--3
 		"* Second Sunday of Advent (2022): Readings on John the Baptist are done.";--4
 		"* Second Sunday of Advent (2021): Readings on John the Baptist are done. \n * Saint Nicholas Day: People, especially children, leave shoes outside their bedroom doors, and wake up the next day to find gifts inside them placed by other people.";--5
 		"";--6
