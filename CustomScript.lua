@@ -21,12 +21,12 @@ RS.Heartbeat:Connect(function()
 		"";--12
 		"";--13
 		"* Ratification Day: It is suggested to read the proclamation of ratification of the Treaty of Paris.";--14
-		"";--15
+		"* Little New Year: Congee with adzuki beans is often eaten for breakfast on this day.";--15
 		"* National Religious Freedom Day: Memorializing the important freedom of religion in our country that was created by Thomas Jefferson in the Virginia Statue for Religious Freedom. It is recommended to read this document. \n * Martin Luther King Jr. Day (2023): Memorializing the services to the United States of Martin Luther King Jr. Often a day off from school and work, people are officially encouraged to volunteer and do good deeds today. The holiday is also celebrated in Hiroshima with a special banquet.";--16
 		"* Martin Luther King Jr. Day (2022): Memorializing the services to the United States of Martin Luther King Jr. Often a day off from school and work, people are officially encouraged to volunteer and do good deeds today. The holiday is also celebrated in Hiroshima with a special banquet.";--17
 		"";--18
 		"";--19
-		"* Inauguration Day (2021, 2025, 2029, 2033): Watching the Presidential Inauguration if one is able to is considered important, as it only happens once every four years and often welcomes in a new president.";--20
+		"* Inauguration Day (2025, 2029, 2033): Watching the Presidential Inauguration if one is able to is considered important, as it only happens once every four years and often welcomes in a new president.";--20
 		"";--21
 		"";--22
 		"";--23
@@ -50,7 +50,7 @@ RS.Heartbeat:Connect(function()
 		"";--9
 		"";--10
 		"* National Foundation Day: Reflects on the history of Japan, on the traditional founding date in 660 BC. \n * National Inventors' Day: Commemorates the inventors of America. Coincides with Thomas Edison's birthday.";--11
-		"* Sexagesima (2023): Continuations of Septuagesima are kept on this day as further preparations for Lent continue.";--12
+		"* Sunday before Shrove Sunday (2023): Continuations of Septuagesima are kept on this day as further preparations for Lent continue.";--12
 		"* World Radio Day: Learn about the workings of radio, listen to the radio, and reflect how the radio has shaped human history. \n * Septuagesima (2022): Beginning of the preparations for the Lenten season, AKA Shrovetide. From today through Sexagesima, the first chapters of Genesis are read.";--13
 		"* Valentine's Day: Cards and chocolate (giri choko, honmei choko and tomo choko) are exchanged on this day.";--14
 		"* Susan B. Anthony Day: Commemorating activist Susan B. Anthony.";--15
@@ -58,7 +58,7 @@ RS.Heartbeat:Connect(function()
 		"";--17
 		"";--18
 		"* Shrove Sunday (2023): Luke 18:31-43 is often read on this day. Meat, which is typically not eaten during Lent, is eaten on this day.";--19
-		"* Presidents' Day (2023): Commemorating all presidents, but normally specifically Washington and Lincoln. It is recommended to read about their presidencies on this day. \n * Sexagesima (2022): Continuations of Septuagesima are kept on this day as further preparations for Lent continue. \n * Shrove Monday (2023): Bacon and eggs are traditionally eaten for breakfast on this day, and the fat from the bacon is saved for Shrove Tuesday.";--20
+		"* Presidents' Day (2023): Commemorating all presidents, but normally specifically Washington and Lincoln. It is recommended to read about their presidencies on this day. \n * Sunday before Shrove Sunday (2022): Continuations of Septuagesima are kept on this day as further preparations for Lent continue. \n * Shrove Monday (2023): Bacon and eggs are traditionally eaten for breakfast on this day, and the fat from the bacon is saved for Shrove Tuesday.";--20
 		"* Presidents' Day (2022): Commemorating all presidents, but normally specifically Washington and Lincoln. It is recommended to read about their presidencies on this day. \n * Shrove Tuesday (2023): Pancakes are traditionally eaten on this day, and Lenten sacrifices are decided. ";--21
 		"* Ash Wednesday (2023): Ashes are placed on the forehead, and Lent begins. During Lent, one Lenten sacrifice is given up. Specifically on Ash Wednesday, however, an extreme fast, with one full meal and two very small meals, is eaten.";--22
 		"* Emperor's Birthday (Naruhito): The Imperial Palace grounds are opened to the public, and the Emperor typically gives greetings and thanks.";--23
@@ -81,7 +81,7 @@ RS.Heartbeat:Connect(function()
 		"* Ember Day 3 Quarter 1 (2022): Fasting and prayer are specially done on the Ember Days.";--11
 		"* Daylight Saving Time begins (2023): Clocks are set forward by one hour at 2:00 AM on this day.";--12
 		"* Daylight Saving Time begins (2022): Clocks are set forward by one hour at 2:00 AM on this day.";--13
-		"* Pi Day: A pun involving the fact that the first three digits of Pi, 3.14, is the same as the date, 3/14. Pie is often sold for $3.14 or a similar discounted price on this day and eaten.";--14
+		"* Pi Day: A pun involving the fact that the first three digits of Pi, 3.14, is the same as the date, 3/14. Pie is often sold for $3.14 or a similar discounted price on this day and eaten. \n * White Day: Men who received chocolate from women a month earlier on Valentine's Day give chocolate or other gifts to the same women.";--14
 		"";--15
 		"";--16
 		"* St. Patrick's Day: A day devoted to everything Irish, shamrock, and green. Wear green on this day and eat and drink Irish fare.";--17
@@ -145,17 +145,17 @@ RS.Heartbeat:Connect(function()
 		"* Military Spouse Day (2023): A day for remembering the spouses of active duty military members.";--12
 		"";--13
 		"* Mother's Day (2023): A day for remembering and visitng mothers. Carnations and cards are typically given on this day.";--14
-		"* Peace Officers Memorial Day: A day to memorialize offciers who were wounded or killed in the line of duty. \n * Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common.";--15
-		"* Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common.";--16
-		"* Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common. A vigil for the next day is generally taken.";--17
+		"* Peace Officers Memorial Day: A day to memorialize offciers who were wounded or killed in the line of duty. \n * Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day.";--15
+		"* Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day.";--16
+		"* Minor Rogation Day (2023): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day. A vigil for the next day is generally taken.";--17
 		"* Ascension Thursday (2023): Commemorates the ascension of Jesus. Appropriate Bible readings are read.";--18
 		"";--19
 		"* Armed Forces Day (2023): A day to commemorate the nation's armed forces. \n * Emancipation Day: Marks the day the Emancipation Proclamation in Florida.";--20
 		"* Armed Forces Day (2022): A day to commemorate the nation's armed forces.";--21
 		"* National Maritime Day: Recognizes the maritime industry. Marks the day that the steamship Savannah left Savannah, Georgia for the first steam-powered transoceanic voyage.";--22
-		"* Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common.";--23
-		"* Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common.";--24
-		"* National Tap Dance Day: Commemorates the importance of tap dancing on American culture. \n * National Missing Children's Day: Commemorates missing children and the sad fact that the practice of abduction still occurs. \n * Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is common. A vigil for the next day is generally taken.";--25
+		"* Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day.";--23
+		"* Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day.";--24
+		"* National Tap Dance Day: Commemorates the importance of tap dancing on American culture. \n * National Missing Children's Day: Commemorates missing children and the sad fact that the practice of abduction still occurs. \n * Minor Rogation Day (2022): Psalms 103 and 104 are read and prayers for a plentiful harvest and other forms of commerce are done. Fasting is less common than on the major rogation day. A vigil for the next day is generally taken.";--25
 		"* Ascension Thursday (2022): Commemorates the ascension of Jesus. Appropriate Bible readings are read.";--26
 		"";--27
 		"* Pentecost (2023): A day celebrating the descent of the Holy Spirit upon the 12 Apostles as recorded in Acts. Red is an important color and special prayer is done.";--28
@@ -183,13 +183,13 @@ RS.Heartbeat:Connect(function()
 		"* Father's Day (2023): A day for commemorating fathers in the United States. Cards are often given.";--18
 		"* Juneteenth: National observation of emancipation. Cookouts, parties, and Emancipation Proclamation readings are common. \n * Father's Day (2022): A day for commemorating fathers in the United States. Cards are often given.";--19
 		"";--20
-		"* Summer Solstice: Traditionally midsummer in Europ, the beginning of summer in subtropical areas like most of the US and Japan. Celebrations include dancing and bonfires.";--21
+		"* Summer Solstice: Traditionally midsummer in Europe, the beginning of summer in subtropical areas like most of the US and Japan. Celebrations include dancing and bonfires.";--21
 		"";--22
 		"";--23
 		"";--24
 		"* National Catfish Day: The value of farm-raised catfish is recognized.";--25
 		"";--26
-		"* Helen Keller Day: Commemorating activist Hellen Keller.";--27
+		"* Helen Keller Day: Commemorating activist Helen Keller.";--27
 		"";--28
 		"";--29
 		"";--30
@@ -217,7 +217,7 @@ RS.Heartbeat:Connect(function()
 		"";--21
 		"";--22
 		"* Parents' Day (2023): A day to commemorate parents.";--23
-		"* Parent's Day (2022): A day to commemorate parents.";--24
+		"* Parents' Day (2022): A day to commemorate parents.";--24
 		"";--25
 		"";--26
 		"";--27
@@ -356,24 +356,24 @@ RS.Heartbeat:Connect(function()
 		"";--2
 		"* First Sunday of Advent (2023): The beginning of the Advent season. Christmas decorations are put up at this time, and the Advent candle is burned for the first time. \n * Mikan Day: A day to celebrate the mikan, or mandarin orange.";--3
 		"* Second Sunday of Advent (2022): Readings on John the Baptist are done.";--4
-		"* Second Sunday of Advent (2021): Readings on John the Baptist are done. \n * Saint Nicholas Day: People, especially children, leave shoes outside their bedroom doors, and wake up the next day to find gifts inside them placed by other people.";--5
+		"* Saint Nicholas Day: People, especially children, leave shoes outside their bedroom doors, and wake up the next day to find gifts inside them placed by other people.";--5
 		"";--6
 		"* National Pearl Harbor Remebrance Day: Remembering the bombing of Pearl Harbor.";--7
 		"";--8
 		"";--9
 		"* Second Sunday of Advent (2023): Readings on John the Baptist are done.";--10
 		"* Third Sunday of Advent (2022): Readings on the joy of Christ are done.";--11
-		"* Third Sunday of Advent (2021): Readings on the joy of Christ are done.";--12
+		"";--12
 		"";--13
-		"* Monkey Day: A day to celebrate anythign to do with monkeys. \n * Ember Day 1 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--14
-		"* Bill of Rights Day: A day to reflect on the Bill of Rights. \n * Ember Day 1 Quarter 4 (2021): Fasting and prayer are specially done on the Ember Days. \n * Ember Day 2 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--15
-		"* Ember Day 2 Quarter 4 (2021): Fasting and prayer are specially done on the Ember Days. \n * Ember Day 3 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--16
-		"* Pan American Aviation Day: A day to recognize the importance of aviation in the Americas. \n * Third Sunday of Advent (2023): Readings on the joy of Christ are done. \n * Ember Day 3 Quarter 4 (2021): Fasting and prayer are specially done on the Ember Days.";--17
+		"* Monkey Day: A day to celebrate anything to do with monkeys. \n * Ember Day 1 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--14
+		"* Bill of Rights Day: A day to reflect on the Bill of Rights. \n * Ember Day 2 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--15
+		"* Ember Day 3 Quarter 4 (2022): Fasting and prayer are specially done on the Ember Days.";--16
+		"* Pan American Aviation Day: A day to recognize the importance of aviation in the Americas. \n * Third Sunday of Advent (2023): Readings on the joy of Christ are done.";--17
 		"* Fourth Sunday of Advent (2022): Readings on Mary and Joseph before Jesus are done.";--18
-		"* Fourth Sunday of Advent (2021): Readings on Mary and Joseph before Jesus are done.";--19
+		"";--19
 		"* Ember Day 1 Quarter 4 (2023): Fasting and prayer are specially done on the Ember Days.";--20
-		"* Ember Day 2 Quarter 4 (2023): Fasting and prayer are specially done on the Ember Days.";--21
-		"* Winter solstice (Dongzhi Festival): The beginning of winter. Hot foods like tangyuan and hot pot are eaten and a yuzu bath is taken on this day. \n * Ember Day 3 Quarter 4 (2023)";--22
+		"* Winter solstice (Dongzhi Festival): The beginning of winter. Hot foods like tangyuan and hot pot are eaten and a yuzu bath is taken on this day. \n * Ember Day 2 Quarter 4 (2023): Fasting and prayer are specially done on the Ember Days.";--21
+		"* Ember Day 3 Quarter 4 (2023): Fasting and prayer are specially done on the Ember Days.";--22
 		"";--23
 		"* Fourth Sunday of Advent (2023): Readings on Mary and Joseph before Jesus are done. \n * Christmas Eve: A dark, candlelit dinner is sometimes eaten. Some people hold a partial vigil, until midnight, so that they may pray at midnight on Christmas. Certain Bible verses, such as Isaiah 9:2-7, Psalm 96, Titus 2:11-14, and Luke 2:1-20 are sometimes read.";--24
 		"* Christmas Day (First Day of Christmas): Comemmorates the birth of Jesus. Some people attend church services. Some people watch pantomimes or Nativity plays, and music, Christmas dinner, and gifts are all enjoyed. Cards are also often given sometime around this time. Certain Bible verses are sometimes read, such as Isaiah 52:7-10, Psalm 98, Hebrews 1:1-12, and John 1:1-14. This day marks the beginning of Christmastide.";--25
@@ -382,7 +382,7 @@ RS.Heartbeat:Connect(function()
 		"* Fourth Day of Christmas: Certain Bible verses are sometimes read, such as Jeremiah 31:15-17, Psalm 124, 1 Peter 4:12-19, and Matthew 2:13-18.";--28
 		"* Fifth Day of Christmas: Certain Bible verses are sometimes read, such as 1 Chronicles 28:1-10, 1 Corinthians 3:10-17, and Psalm 147:12-20.";--29
 		"* Sixth Day of Christmas: Certain Bible verses are sometimes read, such as 1 Samuel 2:18-20, 26, Psalm 148, Colossians 3:12-17, and Luke 2:41-52.";--30
-		"* Seventh Day of Christmas: Certain Bible verses are sometimes read, such as Ecclesiastes 3:1-13, psalm 8, Revelation 21:1-6a, and Matthew 25:31-46. \n * New Years Eve (Omisoka): A watchnight service, held at night on this day and sometimes going into the morning of the next day, is sometimes held. People light fireworks and watch ball drops at midnight. Bathing soon before midnight is common, and families gather together one last time at around 11pm to eat toshikoshi soba. People may also watch New year's Eve specials on TV. People almost always either stay up until midnight, or stay up for the entire night and fall asleep on the night of January 1st. Drinking o-toso or similar is popular at midnight or just after it."--31
+		"* Seventh Day of Christmas: Certain Bible verses are sometimes read, such as Ecclesiastes 3:1-13, Psalm 8, Revelation 21:1-6a, and Matthew 25:31-46. \n * New Years Eve (Omisoka): A watchnight service, held at night on this day and sometimes going into the morning of the next day, is sometimes held. People light fireworks and watch ball drops at midnight. Bathing soon before midnight is common, and families gather together one last time at around 11pm to eat toshikoshi soba. People may also watch New year's Eve specials on TV. People almost always either stay up until midnight, or stay up for the entire night and fall asleep on the night of January 1st. Drinking o-toso or similar is popular at midnight or just after it."--31
 	}
 	if yr ~= 24 and yr ~= 28 and yr ~= 32 then
 		day.Text = tableOfDays[yday]
