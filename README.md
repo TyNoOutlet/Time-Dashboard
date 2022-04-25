@@ -27,4 +27,4 @@ These are various holidays. There are four types:
   - Some of the customs listed are particular to European countries.
 - Florida governmental
 
-Holidays deemed offensive or oppresive have been removed; similarly, any holidays that may not pass the Roblox filter have also been removed or have had name changes (the file is published on Roblox for online mobile viewing).
+Holidays deemed offensive or oppressive have been removed; similarly, any holidays that may not pass the Roblox filter have also been removed or have had name changes (the file is published on Roblox for online mobile viewing).
