@@ -19,3 +19,9 @@ Rokuyo is a superstition from Edo-period Japan and onward. It is still used some
 ## Customs
 
 These are various holidays. There are four types: 
+- US federal
+- Japanese federal
+- US cultural
+- Japanese cultural
+- Christian religious, various denominations
+  - Some of the customs listed are particular to European countries.
