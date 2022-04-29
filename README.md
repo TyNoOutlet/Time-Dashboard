@@ -10,7 +10,7 @@ Japanese Time is the closest replication of traditional Japanese timekeeping met
 
 Daytime 6 (卯), which starts the daytime, begins at the beginning of twilight, or within 15 minutes if one is located in a certain time zone. Likewise, nighttime 6 (酉) begins at the end of twilight, or within 15 minutes of it in a time zone.
 
-In the latest update, there will be time zones that will correspond to a sunrise and sunset value of a region at (the map link will be here). Each time zone is named after the largest city in the zone: the city may be "Miami," but if you live in Homestead just an hour or less away, you will use a different time zone than Miami (most likely Key West or Tampa, actual time zone has not been drawn yet.) The time is updated automatically when the desired time zone is selected.
+In the latest update, there will be time zones that will correspond to a sunrise and sunset value of a region at (the map link will be here). Each time zone is named after the largest city in the zone: the city may be "Miami," for instance, so even if you live in certain parts of the Bahamas you would use the Miami time zone if your location falls within its bounds, rather than a hypothetical "Freeport" one. The time is updated automatically when the desired time zone is selected.
 
 ## Rokuyo
 
