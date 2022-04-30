@@ -10,7 +10,7 @@ Japanese Time is the closest replication of traditional Japanese timekeeping met
 
 Daytime 6 (卯), which starts the daytime, begins at the beginning of twilight, or within 15 minutes if one is located in a certain time zone. Likewise, nighttime 6 (酉) begins at the end of twilight, or within 15 minutes of it in a time zone.
 
-In the latest update, there will be time zones that will correspond to a sunrise and sunset value of a region at (the map link will be here). Each time zone is based on regions of an area; you will select the country, state/province/similar, then the region you want to view. The time is updated automatically when the desired time zone is selected.
+In the latest update, there will be time zones that will correspond to a sunrise and sunset value of a region. You may view the region map at (the map link will be here). There may also be county selection in the future. Each time zone is based on regions of an area; you will select the country, state/province/similar, then the region you want to view. The time is updated automatically when the desired time zone is selected.
 
 ## Rokuyo
 
